@@ -10,6 +10,7 @@ Confirmed participants [alphabetical]
 *Gavin Beinart-Smollan* |
 *Maurice Brenner* |
 *Abi Cunningham* |
+*Marc Eagle* |
 *Jacob Forward* |
 *Colin Greenstreet (convenor)* |
 *Thiago Krause* |
