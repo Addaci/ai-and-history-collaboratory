@@ -43,13 +43,43 @@ Hands-on testing and improvement of the Agent in real time by members of the Col
 
 Discussing Gemini 3 Pro Preview native English language HTR and NER capabilities
 
-Theoretical basis of strong Gemini performance in machine transcription
+Reviewing theoretical basis of strong Gemini performance in machine transcription
 
 Sharing experimental data for transcription of English High Court of Admiralty depositions
 
 > Contrasting Gemini 3 Pro Preview results with Leo and Transkribus
 
 Sharing experimental data for transcription of primary source handwritten documents used by other ai and history collaboratory members
+
+```
+FOR DISCUSSION SPECIFICALLY OF GEMINI 3 PRO PREVIEW
+
+> Developing, iterating, critiquing and refining your transcription strategy with Gemini 3 Pro Preview for your particular use case
+>> Conducting an initial review of the palaeographical and content challenge of your material
+>> Conducting an initial review of available Ground Truth prepared for previous machine transcription, or for scholarly editions
+>> Conducting an initial review of past machine transcription output and work flows with other machine transcription services
+and/or software
+
+QUESTION
+> Should transcription strategy with Gemini 3 Pro Preview vary according to English/Non-English primary material?
+> Shoudl transcription strategy with Gemini 3 Pro Preview vary for low resource languages
+e.g. Yiddish, Armenian, Ottoman Turkish?
+
+> Calling detailed well structured Systems Instructions with short User prompts
+
+> Using glossaries encoded in JSON Schemas in System Instructions
+>> COMPONENTS OF SCHEMA: Canonical; attested form (variants); definition
+
+> Setting temperature, thinking level, and media resolution according to transcription strategy
+>> LOW (0.1-0.2), LOW, DEFAULT (Mark Humphries)
+>>> Evidence for settings, fit with transcription strategy, impact on quality of output, and impact on cost of input/output?
+>> LOW (0.15 to 2.0), HIGH, DEFAULT (Colin Greenstreet)
+>>> Evidence for settings, fit with transcription strategy, impact on quality of output, and impact on cost of input/output
+
+> Are any tools relevant to transcription strategy? Review purpose of structured outputs, code execution, function calling,
+grounding with Google Search, and URL context
+
+```
 
 ***Suggested reading***
 
