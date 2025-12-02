@@ -119,11 +119,20 @@ We could use English High Court of Admiralty depositions as a use case, where I 
 
 ```
 FOR DISCUSSION
-> It would be interesting to discuss what history domain agents for dealing with large quantities 
-of documents would require as skills. 
-> I think by the way that Chamelio's product is a wrapper over ChatGPT 5.1.
+> What skills do history domain agents would require to deal with large quantities 
+of documents?
+> Could we in our AI + History Collaboratory experiment with Model Context Protocol (MCP) to
+facilitate LLM interaction with digital archives. 
+>> We could create a small POC using the MarineLives SemanticMediaWiki as a Use Case
+>> See Dan Cohen's August 2025 article.
 ```
+
 See [Chamelio product demo](https://www.youtube.com/watch?v=k_VDUazeftE). 
+> I think by the way that Chamelio's product is a wrapper over ChatGPT 5.1.
+
+***Suggested reading***
+
+`Cohen, Dan, 'AI and Libraries, Archives, and Museums, Loosely Coupled. A new framework provides a way for cultural heritage institutions to take advantage of the technology with fewer misgivings, and to serve students, scholars, and the public better', Human Ingenuity, August 18, 2025`. Click [here](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition).` 
 
 ---
 
