@@ -73,7 +73,7 @@ e.g. Yiddish, Armenian, Ottoman Turkish?
 > Setting temperature, thinking level, and media resolution according to transcription strategy
 >> LOW (0.1-0.2), LOW, DEFAULT (Mark Humphries)
 >>> Evidence for settings, fit with transcription strategy, impact on quality of output, and impact on cost of input/output?
->> LOW (0.15 to 2.0), HIGH, DEFAULT (Colin Greenstreet)
+>> LOW (0.15 to 0.2), HIGH, DEFAULT (Colin Greenstreet)
 >>> Evidence for settings, fit with transcription strategy, impact on quality of output, and impact on cost of input/output
 
 > Are any tools relevant to transcription strategy? Review purpose of structured outputs, code execution, function calling,
