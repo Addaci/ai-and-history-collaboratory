@@ -7,6 +7,7 @@ Confirmed participants [alphabetical]
 
 *[Gavin Beinart-Smollan](https://www.linkedin.com/in/beismo/)* |
 *[Maurice Brenner](https://www.linkedin.com/in/maurice-brenner-448134a/?originalSubdomain=uk)* |
+*[David Brown](XX)* |
 *[Abi Cunningham](https://www.linkedin.com/in/abi-cunningham-1b4481273/?originalSubdomain=uk)* |
 *[Marc Eagle](https://www.wku.edu/history/staff/marc_eagle)* |
 *[Jacob Forward](https://www.hist.cam.ac.uk/people/jacob-forward)* |
@@ -14,6 +15,8 @@ Confirmed participants [alphabetical]
 *[Thiago Krause](https://clasprofiles.wayne.edu/profile/hq8728)* |
 *[Oren Okhovat](https://jewishstudies.yale.edu/profile/oren-okhovat)* |
 *[Mark L. Thompson](https://research.rug.nl/en/persons/mark-thompson/publications/)* |
+
+Our participants are members of, or associated with, a wide range of universities in the US, UK, and continental Europe, including the University of Cambridge, University of East Anglia, University of Groningen, New York University, Trinity College Dublin, Wayne State University, Western Kentucky University, Yale University, University of York.
 
 ---
 
@@ -57,12 +60,12 @@ FOR DISCUSSION SPECIFICALLY OF GEMINI 3 PRO PREVIEW
 > Developing, iterating, critiquing and refining your transcription strategy with Gemini 3 Pro Preview for your particular use case
 >> Conducting an initial review of the palaeographical and content challenge of your material
 >> Conducting an initial review of available Ground Truth prepared for previous machine transcription, or for scholarly editions
->> Conducting an initial review of past machine transcription output and work flows with other machine transcription services
+>> Conducting an initial review of past machine transcription output and workflows with other machine transcription services
 and/or software
 
 QUESTION
 > Should transcription strategy with Gemini 3 Pro Preview vary according to English/Non-English primary material?
-> Shoudl transcription strategy with Gemini 3 Pro Preview vary for low resource languages
+> Should transcription strategy with Gemini 3 Pro Preview vary for low resource languages
 e.g. Yiddish, Armenian, Ottoman Turkish?
 
 > Calling detailed well structured Systems Instructions with short User prompts
@@ -119,6 +122,7 @@ We could use English High Court of Admiralty depositions as a use case, where I 
 
 ```
 FOR DISCUSSION
+
 > What skills do history domain agents would require to deal with large quantities 
 of documents?
 > Could we in our AI + History Collaboratory experiment with Model Context Protocol (MCP) to
@@ -191,6 +195,7 @@ TOOLS
 
 ```
 FOR DISCUSSION
+
 > What skills, tools and knowledge have you been using drawing on history tech?
 > What would a process to develop a skills training curriculum look like?
 > What would a one year preparatory skills training course look like? Would it increase non-academic post-PhD employability?
