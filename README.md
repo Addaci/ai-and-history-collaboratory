@@ -1,5 +1,7 @@
 **The ai + history collaboratory is an online forum with synchronous and asynchronous components. We meet monthly online and maintain the ai-and-history-collaboratory GitHub repository for asynchronous communication between sessions. This collaboratory is a continuation of the December 2024 marinelives-collaboratory, in terms of its focus on ai and history. Depending on how the collaboratory develops, we may identify potential collective collaboratory projects, or simply share projects of individual members of the collaboratory. The repository has both a wiki and a discussion board.**
 
+This season's AI + History collaboratory (2025/26) will run for six monthly sessions from December 2025 to May 2026, with a possible History Hackathon in June 2026 to be organised by our Collaboratory, but with a wider group of participants. I am already planning a second season (2026/27), which will run monthly from September 2026 to May 2027.
+
 The topic of our first online session on Tuesday, December 9th 2025 will be the conceptualisation, design and development of a Socratic research tool powered by Gemini (https://github.com/Addaci/Generative-Lives-Research-App/wiki), and its potential application within historical research.
 
 ---
@@ -20,7 +22,7 @@ Our participants are members of, or associated with, a wide range of universitie
 
 ---
 
-**DRAFT SCHEDULE OF MEETINGS**
+**DRAFT SCHEDULE OF MEETINGS for 2025/26 SEASON**
 
 ### DECEMBER 2025
 
@@ -210,6 +212,31 @@ FOR DISCUSSION
 **Possible June 2026 face to face or online history tech hackathon for PhD and postdoc historians and computer scientists**
 
 ---
+
+**DRAFT SCHEDULE OF TOPICS FOR 2026/27 SEASON**
+
+[Planned to start in September 2026 after a summer break for July and August]
+
+### METACOGNITION
+
+```
+FOR DISCUSSION
+
+> Developing your own "voice" and confidence when interacting with a LLM
+> Designing and recording experiments to conduct with a LLM [Lab Notebooks]
+> Co-development and documentation of hypotheses and arguments with a LLM [Research Notebooks]
+```
+### TOOL BUILDING
+
+```
+FOR DISCUSSION
+
+> Developing your own tools vs. using existing tools?
+> Repurposing old tools for new purposes using generative-ai to redesign them or to power them?
+> What common protocols exist to enable tools to connect with each other and to connect with LLMs [e.g. MCP]
+> Building tools into workflows?
+```
+
 
 
 
