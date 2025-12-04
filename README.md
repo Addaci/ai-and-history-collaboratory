@@ -217,7 +217,7 @@ FOR DISCUSSION
 
 [Planned to start in September 2026 after a summer break for July and August]
 
-### METACOGNITION
+### Metacognition
 
 ```
 FOR DISCUSSION
@@ -226,7 +226,7 @@ FOR DISCUSSION
 > Designing and recording experiments to conduct with a LLM [Lab Notebooks]
 > Co-development and documentation of hypotheses and arguments with a LLM [Research Notebooks]
 ```
-### TOOL BUILDING
+### Tool Building
 
 ```
 FOR DISCUSSION
