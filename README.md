@@ -18,6 +18,10 @@ Confirmed participants [alphabetical]
 *[Oren Okhovat](https://jewishstudies.yale.edu/profile/oren-okhovat)* |
 *[Mark L. Thompson](https://research.rug.nl/en/persons/mark-thompson/publications/)* |
 
+Confirmed observers [alphabetical]
+
+[Sam Kaislaniemi](https://www.helsinki.fi/en/researchgroups/variation-contacts-and-change-in-english/people/samuli-kaislaniemi) 
+
 Our participants are members of, or associated with, a wide range of universities in the US, UK, and continental Europe, including the University of Cambridge, University of East Anglia, University of Groningen, New York University, Trinity College Dublin, Wayne State University, Western Kentucky University, Yale University, University of York.
 
 ---
