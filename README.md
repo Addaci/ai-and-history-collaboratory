@@ -42,6 +42,8 @@ Hands-on testing and improvement of the Agent in real time by members of the Col
 
 ### JANUARY 2026
 
+Tuesday, January 20th 2025 @ 4 pm UK time; 5 pm Paris, Berlin, Madrid; 11 am EST by ZOOM
+
 ### HTR/NER
 
 **Developments in HTR and NER and their implications for historical research**
@@ -49,7 +51,10 @@ Hands-on testing and improvement of the Agent in real time by members of the Col
 Discussing Gemini 3 Pro Preview's native English language HTR and NER capabilities
 
 Discussing Gemini 3 Pro Preview's low resource language HTR and NER capabilities.
-Use case: Armenian; Mixed Russian/Armenian
+
+> Use case: Armenian; Mixed Russian/Armenian
+> 
+> Use case: Yiddish
 
 Reviewing theoretical basis of strong Gemini performance in machine transcription
 
