@@ -70,7 +70,7 @@ The topics we will discuss will include:
 
 * Integration of LLM-supported HTR into existing (and modified) historical research processes
 * Reasons for resistance amongst historians to LLM-supported historical research methods
-* Level of interest amongst ai+history collaboratory members and Ottoman Turkish/Ottoman language historians in pursuing a well-defined piece of academic resarch for publication as proof of concept and to encourage exploration and adoption of LLM-supported HTR methods
+* Level of interest amongst ai + history collaboratory members and Ottoman Turkish/Ottoman language historians in pursuing a well-defined piece of academic research for publication as proof of concept and to encourage exploration and adoption of LLM-supported HTR methods
 
 ```
 
