@@ -2,7 +2,9 @@
 
 This season's AI + History collaboratory (2025/26) will run for six monthly sessions from December 2025 to May 2026, with a possible History Hackathon in June 2026 to be organised by our Collaboratory, but with a wider group of participants. I am already planning a second season (2026/27), which will run monthly from September 2026 to May 2027.
 
-The topic of our first online session on Tuesday, December 9th 2025 will be the conceptualisation, design and development of a Socratic research tool powered by Gemini (https://github.com/Addaci/Generative-Lives-Research-App/wiki), and its potential application within historical research.
+The topic of our first online session on Tuesday, December 9th 2025 was the conceptualisation, design and development of a Socratic research tool powered by Gemini (https://github.com/Addaci/Generative-Lives-Research-App/wiki), and its potential application within historical research.
+
+**The topic of our second online session on Tuesday, January 20th 2026 is LLM-enabled HTR and its potential integration into historical research processes.**
 
 ---
 Confirmed participants [alphabetical]
@@ -14,13 +16,11 @@ Confirmed participants [alphabetical]
 *[Marc Eagle](https://www.wku.edu/history/staff/marc_eagle)* |
 *[Jacob Forward](https://www.hist.cam.ac.uk/people/jacob-forward)* |
 *[Colin Greenstreet (convenor)](https://marinelives.academia.edu/ColinGreenstreet)* |
+*[Lucas Haasis](https://www.dsm.museum/en/about-us/team/dr-lucas-haasis)* |
+*[Sam Kaislaniemi](https://www.helsinki.fi/en/researchgroups/variation-contacts-and-change-in-english/people/samuli-kaislaniemi)* |
 *[Thiago Krause](https://clasprofiles.wayne.edu/profile/hq8728)* |
 *[Oren Okhovat](https://jewishstudies.yale.edu/profile/oren-okhovat)* |
 *[Mark L. Thompson](https://research.rug.nl/en/persons/mark-thompson/publications/)* |
-
-Confirmed observers [alphabetical]
-
-[Sam Kaislaniemi](https://www.helsinki.fi/en/researchgroups/variation-contacts-and-change-in-english/people/samuli-kaislaniemi) 
 
 Our participants are members of, or associated with, a wide range of universities in the US, UK, and continental Europe, including the University of Cambridge, University of East Anglia, University of Groningen, New York University, Trinity College Dublin, Wayne State University, Western Kentucky University, Yale University, University of York.
 
