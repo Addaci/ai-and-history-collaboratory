@@ -28,7 +28,7 @@ Our participants are members of, or associated with, a wide range of universitie
 
 **DRAFT SCHEDULE OF MEETINGS for 2025/26 SEASON**
 
-### DECEMBER 2025
+### DECEMBER 2025 [PAST EVENT]
 
 Tuesday, December 9th 2025 @ 4 pm UK time; 5 pm Paris, Berlin, Madrid; 11 am EST; 9 am Mountain time; 8 am Pacific time by ZOOM 
 
@@ -44,7 +44,7 @@ Hands-on testing and improvement of the Agent in real time by members of the Col
 
 ---
 
-### JANUARY 2026
+### JANUARY 2026 [PAST EVENT]
 
 Tuesday, January 20th 2025 @ 4 pm UK time; 5 pm Paris, Berlin, Madrid; 11 am EST by ZOOM; 9 am Mountain time; 8 am Pacific time by ZOOM [This call will last two hours, with one hour reserved for discussion]
 
@@ -86,9 +86,27 @@ The topics we will discuss will include:
 
 ```
 
+### FEBRUARY 2026 [NEXT EVENT]
+
+Tuesday, February 24th 2025 @ 4 pm UK time; 5 pm Paris, Berlin, Madrid; 11 am EST by ZOOM; 9 am Mountain time; 8 am Pacific time by ZOOM [This call will last one hour]
+
+### Databases
+
+**Exploring the Model Context Protocol as an interface with databases and the concept of different types of document agents to work with databases which contain metadata and text.**
+
+***Suggested reading***
+
+`Anonymous, What is the Model Context Protocol (MCP), Technical documentation.` Click [here](https://modelcontextprotocol.io/docs/getting-started/intro?utm_source=dancohen&utm_medium=email&utm_campaign=ai-and-libraries-archives-and-museums-loosely-coupled)
+
+`Anthropic, 'Claude can now connect to your world', Press Release, May 1st 2025.` Click [here](https://claude.com/blog/integrations?utm_source=dancohen&utm_medium=email&utm_campaign=ai-and-libraries-archives-and-museums-loosely-coupled)
+
+`Cohen, Dan, 'AI and Libraries, Archives, and Museums, Loosely Coupled. A new framework provides a way for cultural heritage institutions to take advantage of the technology with fewer misgivings, and to serve students, scholars, and the public better', Human Ingenuity, August 18, 2025.` Click [here](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition).` 
+
+`Scheinfeldt, Tom. 'Making an AI Frontend for ArchivesSpace. Have you ever wanted to talk with your finding aid?', Blog entry, November 19th 2025.` Click [here](https://foundhistory.org/making-an-ai-frontend-for-archivesspace/)
+
 ---
 
-### FEBRUARY 2026
+### MARCH 2026 [FUTURE EVENT]
 
 ### Search/Discovery
 
@@ -107,58 +125,7 @@ See: [Google Scholar Labs](https://scholar.google.com/scholar_labs/search?hl=en)
 
 ---
 
-### MARCH 2026
-
-### Databases
-
-**Exploring the concept of different types of document agents to work with databases which contain metadata and text.**
-
-The mental model I am thinking of is the legal tech product of the US company Chamelio, which is a Legal Intelligence platform targeted at in-house legal teams. The product has multiple agents optimised to do things like (a) initiate a new legal review (b) review contract revisions (c) create a document summary (d) ask questions. Each agent is optimised for a narrow set of tasks. 
-
-**USE CASE:**
-We could use English High Court of Admiralty depositions as a use case, where I have complex metadata and text extracts for many HCA 13/ volumes between the 1620s and late 1680s, and also have high quality full text. The obvious thing is to create a RAG database, using a LLM to help automate the creation and population of the database, stripping out the text from my GitHub HCA repository or from the MarineLives wiki. But purely as a demo we could create a flat Excel database populated with (say) 100 depositions and associated metadata. 
-
-```
-FOR DISCUSSION
-
-> What skills do history domain agents would require to deal with large quantities 
-of documents?
-> Could we in our AI + History Collaboratory experiment with Model Context Protocol (MCP) to
-facilitate LLM interaction with digital archives. 
->> We could create a small POC using the MarineLives SemanticMediaWiki as a Use Case
->> See Dan Cohen's August 2025 article.
-```
-
-See [Chamelio product demo](https://www.youtube.com/watch?v=k_VDUazeftE). 
-> I think by the way that Chamelio's product is a wrapper over ChatGPT 5.1.
-
-***Suggested reading***
-
-`Anonymous, What is the Model Context Protocol (MCP), Technical documentation.` Click [here](https://modelcontextprotocol.io/docs/getting-started/intro?utm_source=dancohen&utm_medium=email&utm_campaign=ai-and-libraries-archives-and-museums-loosely-coupled)
-
-`Anthropic, 'Claude can now connect to your world', Press Release, May 1st 2025.` Click [here](https://claude.com/blog/integrations?utm_source=dancohen&utm_medium=email&utm_campaign=ai-and-libraries-archives-and-museums-loosely-coupled)
-
-`Cohen, Dan, 'AI and Libraries, Archives, and Museums, Loosely Coupled. A new framework provides a way for cultural heritage institutions to take advantage of the technology with fewer misgivings, and to serve students, scholars, and the public better', Human Ingenuity, August 18, 2025.` Click [here](https://generativehistory.substack.com/p/gemini-3-solves-handwriting-recognition).` 
-
-`Scheinfeldt, Tom. 'Making an AI Frontend for ArchivesSpace. Have you ever wanted to talk with your finding aid?', Blog entry, November 19th 2025.` Click [here](https://foundhistory.org/making-an-ai-frontend-for-archivesspace/)
-
-***Suggested resource***
-
-5-Day AI Agents Intensive Course with Google: originally held live from November 10 - 14, 2025. It is now available as a self-paced Kaggle Learn guide. Click [here](https://www.kaggle.com/learn-guide/5-day-agents)
-
-`Day 1 - Introduction to Agents: Explore the foundational concepts of AI agents, their defining characteristics, and how agentic architectures differ from traditional LLM applications, laying the groundwork for building intelligent, autonomous systems.`
-
-`Day 2 - Agent Tools & Interoperability with Model Context Protocol (MCP): Dive into the world of tools, understanding how AI agents can "take action" by leveraging external functionalities and APIs, and explore the ease of discovering and using tools offered by the MCP.`
-
-`Day 3 - Context Engineering: Sessions & Memory: Explore how to build AI agents that can remember past interactions and maintain context. Learn how to implement short-term and long-term memory to create more robust agents capable of handling complex, multi-turn tasks.`
-
-`Day 4 - Agent Quality: Learn to build robust and reliable AI agents by mastering the critical disciplines of evaluating and improving agents. This session will cover observability, logging, and tracing to provide visibility, alongside key metrics and evaluation strategies to optimize agent performance.`
-
-`Day 5 - Prototype to Production: Go beyond local testing and learn to deploy and scale AI agents for real-world use. This session will cover the best practices for deploying your agents so that others can use them, including how to create a truly multi-agent system with the Agent2Agent (A2A) Protocol`.
-
----
-
-### APRIL 2026
+### APRIL 2026 [FUTURE EVENT]
 
 ### Simulations
 
@@ -171,7 +138,7 @@ For example, I would be interested in developing a simulation to explore the wri
 
 ---
 
-### MAY 2026
+### MAY 2026 [FUTURE EVENT]
 
 ### Skills/Tools
 
@@ -215,7 +182,7 @@ FOR DISCUSSION
 ```
 ---
 
-### JUNE 2026
+### JUNE 2026 [FUTURE EVENT]
 
 ### History Hackathon
 
