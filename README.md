@@ -11,7 +11,7 @@ Confirmed participants [alphabetical]
 
 *[Gavin Beinart-Smollan](https://www.linkedin.com/in/beismo/)* |
 *[Maurice Brenner](https://www.linkedin.com/in/maurice-brenner-448134a/?originalSubdomain=uk)* |
-*[David Brown](XX)* |
+*[David Brown](https://www.tcd.ie/history/staff/david-brown.php)* |
 *[Abi Cunningham](https://www.linkedin.com/in/abi-cunningham-1b4481273/?originalSubdomain=uk)* |
 *[Marc Eagle](https://www.wku.edu/history/staff/marc_eagle)* |
 *[Jacob Forward](https://www.hist.cam.ac.uk/people/jacob-forward)* |
